@@ -42,7 +42,7 @@ import {
   UserButton,
 } from "@clerk/nextjs";
 import "./globals.css";
-import Header from "@/components/headers";
+import Header from "@/component/headers";
 import Sidebar from "./components/SideNavBar";
 export default function RootLayout({
   children,
